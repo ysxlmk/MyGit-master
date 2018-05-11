@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"gitgit",Toast.LENGTH_SHORT).show();
         Log.d("ysx","完成第一个功能");
+        Log.d("ysx","完成第二个功能");
         btn_feature_1 = (Button) findViewById(R.id.btn_feature_1);
         btn_feature_2 = (Button) findViewById(R.id.btn_feature_2);
         btn_feature_4 = (Button) findViewById(R.id.btn_feature_4);
